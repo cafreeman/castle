@@ -1,3 +1,5 @@
+**This repo was forked from https://github.com/ovotech/castle/tree/main/packages/avro-ts at commit `37a6da95b70999e248581acd32165aa8d536fd2c` and is intended to be a temporary solution while we wait for [this PR](https://github.com/ovotech/castle/pull/127) to get merged**
+
 # Avro TS
 
 Generate typescript from avro types.

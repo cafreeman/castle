@@ -1,14 +1,13 @@
 {
-  "name": "@ovotech/avro-ts",
+  "name": "cafreeman-avro-ts",
   "description": "Convert avro schemas into typescript interfaces",
   "version": "6.0.8",
   "main": "dist/index.js",
   "source": "src/index.ts",
   "types": "dist/index.d.ts",
-  "author": "Ivan Kerin <ikerin@gmail.com>",
   "license": "Apache-2.0",
-  "repository": "git@github.com:ovotech/castle.git",
-  "homepage": "https://github.com/ovotech/castle/tree/main/packages/avro-ts#readme",
+  "repository": "git@github.com:cafreeman/castle.git",
+  "homepage": "https://github.com/cafreeman/castle/tree/main/packages/avro-ts#readme",
   "scripts": {
     "test:js": "jest --runInBand",
     "test:ts": "tsc test/integration.ts --strict --noEmit && ! tsc test/integration-should-fail.ts --strict --noEmit",
